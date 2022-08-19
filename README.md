@@ -1,5 +1,11 @@
-Flutter_learn_bloc
+# Flutter_bloc_ToDos
 
-  Objective
+Objective
 
-    - For learning State Management - BLoC
+- For learning State Management - BLoC
+
+
+Resource :
+
+BLoC : https://bloclibrary.dev/#/
+Equatable : https://pub.dev/packages/equatable
